@@ -1,0 +1,10 @@
+{
+  "name": "Memoria Notes",
+  "description": "A desktop multimedia note-taking application designed for curating and reliving memories with photos, videos, audio recordings, and rich written reflections.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
